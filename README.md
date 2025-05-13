@@ -31,7 +31,7 @@ This project is a showcase website that displays products in a modern, dark-them
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AbdallahHaroun2p/arabesque-gallery.git
+   git clone https://github.com/AbdallahHaroun2p/arabesque-galleryv1.git
    ```
 2. Install dependencies:
    ```bash
