@@ -1,0 +1,23 @@
+.nav-indicator {
+  position: absolute;
+  height: 85%;
+  background-color: #f59e0b; /* amber-500 */
+  border-radius: 9999px;
+  transition: transform 320ms ease-out;
+  width: 112px;
+}
+
+.nav-indicator-visible {
+  opacity: 1;
+}
+
+.nav-indicator-hidden {
+  opacity: 0;
+}
+
+/* Position classes for the indicator */
+.nav-position-0 { transform: translateX(4px); }
+.nav-position-1 { transform: translateX(124px); }
+.nav-position-2 { transform: translateX(244px); }
+.nav-position-3 { transform: translateX(364px); }
+.nav-position-4 { transform: translateX(484px); } 
